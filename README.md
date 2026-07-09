@@ -4,18 +4,18 @@ Compiler Benchmark Suite for Dynamic Programming Algorithms
 
 Features
 
-✓ Classical DP algorithms
-✓ Computational Biology benchmarks
-✓ RNA Interaction kernels
-✓ OSPSQ
-✓ OSPSQGKT
-✓ Compiler metadata
-✓ Datasets
-✓ OpenMP implementations
-✓ Pluto scripts
-✓ Polly scripts
-✓ MLIR support
-✓ Verification codes
+Classical DP algorithms
+Computational Biology benchmarks
+RNA Interaction kernels
+OSPSQ
+OSPSQGKT
+Compiler metadata
+Datasets
+OpenMP implementations
+Pluto scripts
+Polly scripts
+MLIR support
+Verification codes
 
 Supported Compilers
 
